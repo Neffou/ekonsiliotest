@@ -1,0 +1,40 @@
+.yolo {
+    margin: 50px;
+    border-color:black;
+    border: solid 1px;
+}
+.chatC {
+    margin: 35px;
+    border-color:black;
+    border: solid 1px;
+    padding: 10px;
+    height: 100%;
+} 
+.histoChat {
+    width: 30%;
+}
+.chat{
+    display: flex;
+    justify-content: space-between;
+}
+.chatChat{
+    margin: 35px;
+    padding: 10px;
+    border-color: black;
+    border: solid 1px;
+} 
+.chatForm{    
+    margin: 25px;
+}
+.chatstatus {
+    display: flex;
+    justify-content: flex-end;
+}
+.chatpencil {
+    display: flex;
+
+}
+
+.chatFormText {
+    margin-right: 20px;
+}

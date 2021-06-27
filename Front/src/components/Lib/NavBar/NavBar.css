@@ -1,0 +1,23 @@
+.navBarAccueil {
+    margin: 35px;
+    border-color:black;
+    border: solid 1px;
+}
+.cardNavBar{
+    margin-bottom: 0;
+    padding: 15px;
+}
+
+.cardNavBarBorder {
+    border-color:black;
+    border: solid 1px;
+    margin-right:15px;
+    padding: 15px;
+}
+
+.cardNavBarConversation {
+    border-color:black;
+    border: solid 1px;
+    margin-right:15px;
+    padding: 15px;
+}
